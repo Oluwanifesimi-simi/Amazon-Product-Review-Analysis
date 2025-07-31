@@ -7,7 +7,7 @@ The dataset used for this analysis project contains information scraped from Ama
 - [Recommendation](#recommendation)
 - [Tools Used](#tools-used)
 - [Outcome](#outcome)
-- [Dashboard Preview with Attached Files](#dashboard-preview-with-attached-files) 
+
 
 ## Introduction
 
