@@ -53,7 +53,6 @@ Create a targeted marketing funnel that:
 ## Outcome 
 📈 Built a clean, interactive Excel dashboard to support decision-making around pricing strategies, inventory prioritization, and customer satisfaction trends.
 
-# Dashboard Preview with Attached Files 
-![Dashboard with KPIs](Dashboard%20with%20KPIs%20metrics.png)
+
 
 
