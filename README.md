@@ -7,6 +7,7 @@ The dataset used for this analysis project contains information scraped from Ama
 - [Recommendation](#recommendation)
 - [Tools Used](#tools-used)
 - [Outcome](#outcome)
+- [Dashboard Preview with Attached Files](#dashboard-preview-with-attached-files) 
 
 ## Introduction
 
@@ -52,7 +53,7 @@ Create a targeted marketing funnel that:
 ## Outcome 
 📈 Built a clean, interactive Excel dashboard to support decision-making around pricing strategies, inventory prioritization, and customer satisfaction trends.
 
-# Images Preview with Attached Files 
+# Dashboard Preview with Attached Files 
 
 
 
